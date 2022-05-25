@@ -1,1 +1,1 @@
-My script writing of the current working directory
+my first shell basic readme
